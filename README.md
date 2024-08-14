@@ -66,9 +66,9 @@ VulnScanner is a Python-based vulnerability scanning tool designed to identify c
 
 ## Installation
 
-1. Clone the repository:https://github.com/SUMERAAKBAR002/vulnscanner.git
+1. Clone the repository:https://github.com/sumeraakbar002/vulnscanner.git
 2. 
-2. Navigate to the project directory:https://github.com/SUMERAAKBAR002/vulnscanner.git
+2. Navigate to the project directory:https://github.com/sumeraakbar002/vulnscanner.git
 3. 
 3. Set up a virtual environment and install dependencies:
 
